@@ -1,0 +1,21 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Textures/coin/coint.tpsheet
+- Assets/Textures/enemy/enemy.tpsheet
+- Assets/Textures/hero/hero.tpsheet
+- Assets/Textures/hero/heroatlas.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Textures/coin/coint.png
+- Assets/Textures/enemy/enemy.png
+- Assets/Textures/hero/hero.png
+- Assets/Textures/hero/heroatlas.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+enableDebugOutput: 0
